@@ -1,4 +1,4 @@
-# Hi, I'm Sai Laxmi 👋  
+# Hi, I'm Sailaxmi 👋  
 
 🎓 First Year B.Tech Student  
 💡 Passionate about Technology, Data & Innovation  
