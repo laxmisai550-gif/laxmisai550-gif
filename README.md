@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sai Laxmi 👋  
 
-<!--
-**laxmisai550-gif/laxmisai550-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year B.Tech Student  
+💡 Passionate about Technology, Data & Innovation  
+🚀 Building projects and learning in public  
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- App Development
+- Web Development
+- Data & AI Fundamentals
+- Problem Solving with C++
+
+## 🛠️ Tech Stack
+
+*Languages:*  
+C++, HTML, CSS, Python
+
+*Currently Learning:*  
+Git & GitHub  
+JavaScript  
+Data Structures 
+
+## 🚀 Current Focus
+
+- Building real-world mini projects  
+- Creating my personal portfolio website  
+- Improving problem-solving skills  
+- Growing my GitHub with meaningful contributions  
+
+## 📌 2026 Goals
+
+- ✅ Build 10+ quality projects  
+- 🌐 Launch personal portfolio  
+- 🤝 Contribute to Open Source  
+- 💼 Secure Internship by 2nd Year
+  
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/sai-laxmi-01550a37a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+Email: sailaxmi.25mip10126@vitbhopal.ac.in
