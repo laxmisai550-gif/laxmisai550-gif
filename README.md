@@ -1,6 +1,6 @@
 # Hi, I'm Sailaxmi 👋  
 
-🎓 First Year B.Tech Student  
+🎓 B.Tech Student  
 💡 Passionate about Technology, Data & Innovation  
 🚀 Building projects and learning in public  
 
